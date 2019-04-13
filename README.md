@@ -6,4 +6,5 @@ gitstudy
 - 유채원
 - 현명준
 - 이진성
-I am strong man
+
+Initialize
