@@ -1,4 +1,4 @@
-﻿# GitStudy
+# GitStudy
 gitstudy
 ##7기 안드로이드 멤버
 - 이재우
@@ -8,4 +8,4 @@ gitstudy
 - 현명준
 I am strong man
 
-Initialize
+민지호
