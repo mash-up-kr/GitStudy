@@ -7,4 +7,5 @@ gitstudy
 - 현명준
 - 이진성
 
-Initialize
+
+브런치 예제
