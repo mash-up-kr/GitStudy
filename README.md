@@ -1,5 +1,5 @@
 # GitStudy
 gitstudy
 
-i am strong man
+I am strong man
 
