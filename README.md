@@ -1,5 +1,9 @@
 # GitStudy
 gitstudy
+##7기 안드로이드 멤버
 
-i am beautifull
-
+- 연아림
+- 유채원
+- 현명준
+- 이진성
+I am strong man
