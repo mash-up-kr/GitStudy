@@ -5,3 +5,5 @@ gitstudy
 - 연아림
 - 유채원
 - 현명준
+
+I am strong man
