@@ -1,7 +1,5 @@
 # GitStudy
 gitstudy
 
-##7기 안드로이드 멤버
+i am strong man
 
-- 이진성
-- 유채원
