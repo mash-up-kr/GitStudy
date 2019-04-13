@@ -8,3 +8,4 @@ gitstudy
 - 현명준
 I am strong man
 
+Initialize
