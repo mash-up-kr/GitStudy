@@ -1,0 +1,315 @@
+[33mcommit 2026d007ad88557261000f200d22dbd19e756004[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: SeongYunKim <cauboy17@naver.com>
+Date:   Sat Apr 13 14:33:40 2019 +0900
+
+    Commit
+
+[33mcommit 7f8ff9391752a881dbfcfcd7b70e2d734b54d5bc[m
+Merge: 8041a65 7d20ceb
+Author: SeongYunKim <cauboy17@naver.com>
+Date:   Sat Apr 13 14:31:59 2019 +0900
+
+    seongyunkim
+
+[33mcommit 7d20cebd59dc8110be4a437fa6dbd201fe82fff5[m
+Merge: 9c498a5 7a745cb
+Author: MYUNG-PC\Myung <myung6024@naver.com>
+Date:   Sat Apr 13 14:31:33 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit 8041a65090a6a09b2c30feed309b884ac545a535[m
+Merge: a52158a 7b773a5
+Author: SeongYunKim <cauboy17@naver.com>
+Date:   Sat Apr 13 14:31:19 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit 9c498a5c97b5b205e113931ff5b79145f78256fc[m
+Merge: f55a80a b6f5955
+Author: MYUNG-PC\Myung <myung6024@naver.com>
+Date:   Sat Apr 13 14:30:12 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit 7a745cbe5ee145809893208e0f2ca0ad50f75600[m
+Merge: ce68401 b6f5955
+Author: devalien1974 <devalien1974@gmail.com>
+Date:   Sat Apr 13 14:29:20 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit f55a80a3955a695b45b00ef5822a430f5b6173fd[m
+Merge: f3ef77a d26518b
+Author: MYUNG-PC\Myung <myung6024@naver.com>
+Date:   Sat Apr 13 14:29:10 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit b6f5955874da1d83980e2b5ce183315dc14ec347[m
+Merge: f65dc76 d26518b
+Author: minjyo <minjyo8823@gmail.com>
+Date:   Sat Apr 13 14:28:51 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit ce684014039b73eff60cbf054a6c03df2cae4a9a[m
+Merge: 3c5b839 d26518b
+Author: devalien1974 <devalien1974@gmail.com>
+Date:   Sat Apr 13 14:28:51 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit f65dc76c99a6cb8267296dfcd00b1725ae8c53fc[m
+Merge: ad28634 7b773a5
+Author: minjyo <minjyo8823@gmail.com>
+Date:   Sat Apr 13 14:28:22 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit f3ef77ae2da045b19c5e115e60b1cedd479f9200[m
+Merge: a9d1665 e401031
+Author: MYUNG-PC\Myung <myung6024@naver.com>
+Date:   Sat Apr 13 14:28:07 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit d26518b93ec4205704ef53a7a80093a13e60380a[m
+Merge: 93e1a9c e401031
+Author: leejinseong <dlwls5201@naver.com>
+Date:   Sat Apr 13 14:28:03 2019 +0900
+
+    commit
+
+[33mcommit 3c5b8395ce1dcffe6ce7091bad8f171791a19ece[m
+Merge: faf6ea5 7b773a5
+Author: devalien1974 <devalien1974@gmail.com>
+Date:   Sat Apr 13 14:27:59 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    * 'master' of https://github.com/mash-up-kr/GitStudy:
+      ss
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit e401031cbebb3bcfdb69fef16eb1b5d073200977[m
+Merge: 17a70d9 9dfb421
+Author: yeonarim <sdr04161@gmail.com>
+Date:   Sat Apr 13 14:27:13 2019 +0900
+
+    Merge branch 'master' of http://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit 93e1a9c80628aea0e320f14954d14f0cef3ca3a6[m
+Merge: 023644e 9dfb421
+Author: leejinseong <dlwls5201@naver.com>
+Date:   Sat Apr 13 14:27:01 2019 +0900
+
+    commit
+
+[33mcommit a9d1665c7640027c9eab43a7dcad4ab9a3298b53[m
+Merge: 915b87f 7b773a5
+Author: MYUNG-PC\Myung <myung6024@naver.com>
+Date:   Sat Apr 13 14:26:49 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit 17a70d9fec5f8566bdc1e9ea619b242d86292fca[m
+Author: yeonarim <sdr04161@gmail.com>
+Date:   Sat Apr 13 14:26:22 2019 +0900
+
+    연아림
+
+[33mcommit 023644e9a47e7581681b9ca285871d02ce49b08b[m
+Merge: 208c1bd 7b773a5
+Author: leejinseong <dlwls5201@naver.com>
+Date:   Sat Apr 13 14:26:15 2019 +0900
+
+    commit
+
+[33mcommit 9dfb4211c359033cd25f48306d8cbe8f881ac936[m
+Merge: e34f525 7b773a5
+Author: 박윤아 <yoonah@daou.co.kr>
+Date:   Sat Apr 13 14:25:37 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+
+[33mcommit 208c1bd243c31f0f7c0e6a871e2c73bdbaf8bb0c[m
+Author: leejinseong <dlwls5201@naver.com>
+Date:   Sat Apr 13 14:20:13 2019 +0900
+
+    안녕하세요.
+
+[33mcommit 7b773a5a9b4b87a375e540d9da010116205bd408[m
+Merge: 42c7347 ab52bcd
+Author: koh13 <tmddbs4998@naver.com>
+Date:   Sat Apr 13 14:16:51 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit ad28634ee2950076c34da833770cc9e672efe557[m
+Merge: afedd7d ab52bcd
+Author: minjyo <minjyo8823@gmail.com>
+Date:   Sat Apr 13 14:16:12 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit 915b87f4f10bec0ad9441cf0ee43f6d183e3ac6d[m
+Merge: 388d58d ab52bcd
+Author: MYUNG-PC\Myung <myung6024@naver.com>
+Date:   Sat Apr 13 14:15:47 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit a52158aa0a23afb934c1cf9d15b5e1c8568265b6[m
+Merge: b734788 ab52bcd
+Author: SeongYunKim <cauboy17@naver.com>
+Date:   Sat Apr 13 14:15:44 2019 +0900
+
+    Merge Conflict
+
+[33mcommit f8d06fd8cdf5ffa2e80d0838a8b461c82cc42f28[m
+Merge: 64ff8b1 ab52bcd
+Author: yeonarim <sdr04161@gmail.com>
+Date:   Sat Apr 13 14:15:37 2019 +0900
+
+    Merge branch 'master' of http://github.com/mash-up-kr/GitStudy
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit 8edb5658158cc00575197ce9507b2b5365ee9397[m
+Merge: 00b4f18 ab52bcd
+Author: leejinseong <dlwls5201@naver.com>
+Date:   Sat Apr 13 14:15:28 2019 +0900
+
+    commit
+
+[33mcommit e34f52553907e656f9ee35957054b5d4154b20a6[m
+Merge: d242c94 ab52bcd
+Author: 박윤아 <yoonah@daou.co.kr>
+Date:   Sat Apr 13 14:15:20 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+
+[33mcommit faf6ea59d718b6a9d9ef4b89e457878dd9ae00f9[m
+Merge: 03fbad6 ab52bcd
+Author: devalien1974 <devalien1974@gmail.com>
+Date:   Sat Apr 13 14:15:12 2019 +0900
+
+    Merge branch 'master' of https://github.com/mash-up-kr/GitStudy
+    
+    * 'master' of https://github.com/mash-up-kr/GitStudy:
+      유채원 입력
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit 388d58ddb4282582b956892c94bcd982a80b773d[m
+Author: MYUNG-PC\Myung <myung6024@naver.com>
+Date:   Sat Apr 13 14:11:44 2019 +0900
+
+    jjang jjang
+
+[33mcommit b73478878a48e70018fcd5cb663c293cba8332c8[m
+Author: SeongYunKim <cauboy17@naver.com>
+Date:   Sat Apr 13 14:06:10 2019 +0900
+
+    김성윤 입력
+
+[33mcommit d242c94188cf28f5a94b26873072289af9facab4[m
+Author: 박윤아 <yoonah@daou.co.kr>
+Date:   Sat Apr 13 13:59:58 2019 +0900
+
+    read.me 수정
+
+[33mcommit 64ff8b17bcb7f6ec10e1e41c4708fe0daab4a212[m
+Author: yeonarim <sdr04161@gmail.com>
+Date:   Sat Apr 13 13:57:11 2019 +0900
+
+    연아림 입력
+
+[33mcommit 42c7347e1d9c3adb2bd4f8199f250723be31f315[m
+Author: koh13 <tmddbs4998@naver.com>
+Date:   Sat Apr 13 13:56:37 2019 +0900
+
+    ss
+
+[33mcommit afedd7d127fcf357f3d674e85c75b22dfd5a72b9[m
+Author: minjyo <minjyo8823@gmail.com>
+Date:   Sat Apr 13 13:56:36 2019 +0900
+
+    민지호 입력
+
+[33mcommit 03fbad6c8baad904b3542cd6dfb6b6e8c02d3f6a[m
+Author: devalien1974 <devalien1974@gmail.com>
+Date:   Sat Apr 13 13:56:33 2019 +0900
+
+    홍재성 입력
+
+[33mcommit 9d0370412df8c2bfed7a57968f5b621d27fdc651[m
+Author: SeongYunKim <cauboy17@naver.com>
+Date:   Sat Apr 13 13:56:32 2019 +0900
+
+    김성윤 입력.
+
+[33mcommit ab52bcda1eef16a792fca7030d7e50734fb7f7e7[m
+Author: yoo-chaewon <ohwow5@sookmyung.ac.kr>
+Date:   Sat Apr 13 13:56:31 2019 +0900
+
+    유채원 입력
+
+[33mcommit 00b4f18b64439ddbd39ca1e775cd228b6cecd76d[m
+Author: leejinseong <dlwls5201@naver.com>
+Date:   Sat Apr 13 13:56:31 2019 +0900
+
+    이진성입력
+
+[33mcommit 67b17f293581afcf0bd103689318582e4ff74607[m
+Author: omjoonkim <omjoonkim@gmail.com>
+Date:   Sat Apr 13 13:31:32 2019 +0900
+
+    Initial commit
