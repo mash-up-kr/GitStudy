@@ -9,3 +9,4 @@ gitstudy
 I am strong man
 
 Initialize
+짱짱맨
