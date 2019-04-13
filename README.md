@@ -2,4 +2,4 @@
 gitstudy
 ##7기 안드로이드 멤버
 
-Initialize
+홍재성
